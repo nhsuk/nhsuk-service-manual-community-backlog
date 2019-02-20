@@ -31,7 +31,7 @@ If it’s marked to-do and you would like to work on it, read [how to develop a 
 
 ### 2. Raise an issue
 
-If your idea is not on the backlog, [raise an issue using the template](https://github.com/nhsuk/nhsuk-service-manual-backlog/issues/new]. A member of the Standards team will get in touch to discuss your proposal. 
+If your idea is not on the backlog, [raise an issue using the template](https://github.com/nhsuk/nhsuk-service-manual-backlog/issues/new). A member of the Standards team will get in touch to discuss your proposal. 
 
 At this stage, you just need to present your idea and evidence of the user needs. You can include screenshots or links to versions of the component or pattern in use, but avoid spending time working on a specific design or writing code.
 
