@@ -28,6 +28,8 @@ We need to make sure the implemention is usable, consistent and versatile.
 | Consistent   | It reuses existing styles and components where relevant. It follows the [content style guide] (https://beta.nhs.uk/service-manual/content) and [NHS.UK frontend library] (https://github.com/nhsuk/nhsuk-frontend/blob/master/docs/contributing/coding-standards.md).|
 | Versatile    | The implementation is versatile enough to be used in a range of different services. The component or pattern must also work with a range of browsers, assistive technologies and devices.|
 
+The service manual team will use these criteria to decide if the contribution is ready to publish.
+
 ## Other things
 
 We are working on this. Please get in touch with the service manual team:
