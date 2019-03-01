@@ -1,30 +1,36 @@
-# NHS.UK digital service manual criteria
+# NHS digital service manual criteria
 
-The contents of the NHS.UK digital service manual are high quality and meet user needs. To guarantee this, all components and patterns must meet certain criteria.
+Contributions to the NHS digital service manual need to meet these criteria.
 
 <br>
 
 ## New proposals
 
-To be successful, proposals need to show that the component or pattern being suggested would be useful and unique.
+You need to show that the new thing will be useful and unique.
 
 | Criteria | Description |
 | :------- | :---------- |
-| Useful   | There is evidence that this component or pattern would be useful for many teams or services. <br /> <br />Evidence could be screenshots or links to versions of it being used in different services. |
-| Unique   | It doesn’t duplicate something which already exists in the NHS.UK digital service manual, unless it’s intended to replace it. |
+| Useful   | You have evidence that it would be useful for many NHS digital teams or services.|
+| Unique   | We don't have something similar already.|
 
-The Standards [working group](WORKING_GROUP.md) reviews proposals in the [community backlog](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/1) to check they meet these criteria. Proposals that meet the criteria will then be moved into the 'To do' column, ready to be worked on. 
+The service manual team will look at proposals in the community backlog to check that they meet these criteria before moving them to the "To do" column.
 
 <br>
 
-## Before a component or pattern is published
+## Criteria for publishing a new thing
+### Components and patterns
 
-The working group reviews the implementation to make sure it is usable, consistent and versatile.
+We need to make sure the implemention is usable, consistent and versatile.
 
 | Criteria     | Description |
 | :----------- | :---------- |
-| Usable       | It has been tried in user research and shown to work with a representative sample of users, including those with disabilities. <br /> <br /> Components and patterns which are not proven usable can be published as experimental. But they must be clearly based on relevant user research from other organisations and best practice, and meet the other criteria. |
-| Consistent   | It reuses existing styles and components in the NHS.UK digital service manual where possible. <br /> <br /> Both the guidance and any content included in examples must follow the [NHS.UK content style guide](https://beta.nhs.uk/service-manual/content-style-guide). <br /> <br />Any code follows the [NHS.UK frontend coding standards](https://github.com/nhsuk/nhsuk-frontend/blob/master/docs/contributing/coding-standards.md) and is ready to merge into GOV.UK Frontend. |
-| Versatile    | The implementation is versatile enough that component or pattern can be used in a range of different services that may need it. <br /> <br />For example, a versatile date input component could be set up to ask for a year only, a month and year only, a precise date, or any other combination you may need. <br /> <br />The component or pattern must also have been tested and shown to work with a range of browsers, assistive technologies and devices. |
+| Usable       | It has been tested in user research and shown to work with a representative sample of users, including people with disabilities.|
+| Consistent   | It reuses existing styles and components where relevant. It follows the [content style guide] (https://beta.nhs.uk/service-manual/content) and [NHS.UK frontend library] (https://github.com/nhsuk/nhsuk-frontend/blob/master/docs/contributing/coding-standards.md).|
+| Versatile    | The implementation is versatile enough to be used in a range of different services. The component or pattern must also work with a range of browsers, assistive technologies and devices.|
 
-To find out more, read the NHS.UK digital service manual [contribution guidelines](CONTRIBUTING.md).
+## Other things
+
+We are working on this. Please get in touch with the service manual team:
+
+- Slack: [NHS.UK service manual Slack workspace] (https://join.slack.com/t/nhs-service-manual/shared_invite/enQtNTIyOTEyNjU3NDkyLWUwOWM5MWY5MGRhYTYxZmY4ZWI0NDA1N2NhNTRiMGY3MTQxNjk5YTc3ZTAzMTA4YmE3ZDAxYmQ3MTQxNDgzOTQ)
+- Email: [service-manual@nhs.net] (mailto:service-manual@nhs.net)
