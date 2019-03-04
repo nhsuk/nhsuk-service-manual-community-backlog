@@ -25,7 +25,7 @@ We need to make sure the implemention is usable, consistent and versatile.
 | Criteria     | Description |
 | :----------- | :---------- |
 | Usable       | It has been tested in user research and shown to work with a representative sample of users, including people with disabilities.|
-| Consistent   | It reuses existing styles and components where relevant. It follows the [content style guide] (https://beta.nhs.uk/service-manual/content) and [NHS.UK frontend library] (https://github.com/nhsuk/nhsuk-frontend/blob/master/docs/contributing/coding-standards.md).|
+| Consistent   | It reuses [existing styles and components](https://beta.nhs.uk/service-manual/styles-components-patterns) where relevant. It follows the [content style guide](https://beta.nhs.uk/service-manual/content) and [NHS.UK frontend library](https://github.com/nhsuk/nhsuk-frontend/blob/master/docs/contributing/coding-standards.md).|
 | Versatile    | The implementation is versatile enough to be used in a range of different services. The component or pattern must also work with a range of browsers, assistive technologies and devices.|
 
 The service manual team will use these criteria to decide if the contribution is ready to publish.
@@ -34,5 +34,5 @@ The service manual team will use these criteria to decide if the contribution is
 
 We are working on this. Please get in touch with the service manual team:
 
-- Slack: [NHS.UK service manual Slack workspace] (https://join.slack.com/t/nhs-service-manual/shared_invite/enQtNTIyOTEyNjU3NDkyLWUwOWM5MWY5MGRhYTYxZmY4ZWI0NDA1N2NhNTRiMGY3MTQxNjk5YTc3ZTAzMTA4YmE3ZDAxYmQ3MTQxNDgzOTQ)
-- Email: [service-manual@nhs.net] (mailto:service-manual@nhs.net)
+- Slack: [NHS.UK service manual Slack workspace](https://join.slack.com/t/nhs-service-manual/shared_invite/enQtNTIyOTEyNjU3NDkyLWUwOWM5MWY5MGRhYTYxZmY4ZWI0NDA1N2NhNTRiMGY3MTQxNjk5YTc3ZTAzMTA4YmE3ZDAxYmQ3MTQxNDgzOTQ)
+- Email: [service-manual@nhs.net](mailto:service-manual@nhs.net)
