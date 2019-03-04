@@ -14,7 +14,7 @@ View [our backlog of styles, components and patterns](https://github.com/nhsuk/n
 
 ### **Other issues**
 
-We're looking at setting up a backlog for other issues, for example changes to the service manual content style guide. We'll have more information to share about this soon.
+We're looking at setting up backlogs for other issues, for example changes to the service manual content style guide. We'll have more information to share about this soon.
 
 ---
 
@@ -23,8 +23,8 @@ We're looking at setting up a backlog for other issues, for example changes to t
 If you have any questions about this backlog, you can use the issue comments, email the [service manual team](mailto:service-manual@nhs.net) or use the [#service-manual](https://nhs-service-manual.slack.com/messages/CF6CNGB7E) channel in the service manual Slack workspace.
 
 
-## Contributing
+## Contribute
 
-Please join in and propose or discuss issues in our backlog.
+Please join in and propose or discuss issues.
 
-[Read our contribution guidelines](CONTRIBUTING.md) and then [check the community backlog](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/1) to see what's needed.
+[Read our contribution guidelines](CONTRIBUTING.md).
