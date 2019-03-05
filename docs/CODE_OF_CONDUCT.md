@@ -1,73 +1,61 @@
-# Contributor Covenant Code of Conduct
+# Contributor code of conduct
 
 ## Our pledge
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
+We want to foster an open and welcoming environment. So we (all contributors, including the service manual team) pledge to make the experience of contributing to our community harassment-free for everyone, regardless of ability, age, body size, disability, education, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, sexual identity and orientation or socio-economic status.
 
 ## Our standards
 
-Examples of behavior that contributes to creating a positive environment
+Examples of behaviour that contributes to creating a positive environment
 include:
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+* using welcoming and inclusive language
+* being respectful of differing viewpoints and experiences
+* gracefully accepting constructive criticism
+* focusing on what is best for the community
+* showing empathy towards other community members
 
-Examples of unacceptable behavior by participants include:
+Examples of unacceptable behaviour by participants include:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
+* using sexualised language or imagery and unwelcome sexual attention or
  advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic
+* trolling, insulting or derogatory comments, and personal or political attacks
+* public or private harassment
+* publishing other people's private information, such as a physical or electronic
  address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
+* other conduct which could reasonably be considered inappropriate in a
  professional setting
 
 ## Our responsibilities
 
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+The service manual team is responsible for making the standards of acceptable behaviour clear. They will take appropriate and fair action in response to any instances of unacceptable behaviour.
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+The team has the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not in line with this code of conduct. They also have the right to ban temporarily or permanently any contributor for other behaviour that they believe is inappropriate, threatening, offensive, or harmful.
+
 
 ## Scope
 
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+This code of conduct applies in project spaces.
+
+It also applies in public when an individual is representing the project or its community. Examples of representing a service manual project or community include: 
+
+* using the service manual or another official e-mail address
+* posting on behalf of the service manual team on social media account or a Slack account
+* acting as an appointed representative at an online or offline event
+
+The service manual team may define or clarify further what representation of a project means.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at [service-manual@nhs.net](mailto:service-manual@nhs.net). All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+You can report abusive, harassing, or otherwise unacceptable behaviour to the service manual team at [service-manual@nhs.net](mailto:service-manual@nhs.net). 
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+The team will review and investigate all complaints and will take whatever action they think necessary and appropriate to the circumstances. The team will keep information about the person who reports the incident confidential. They may also post more details about specific enforcement policies separately.
 
-## Attribution
+If any members of the service manual team don't follow the code of conduct, you can ask senior staff at NHS.UK to take action.  
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
+## Source
+
+We have adapted this code of conduct from the [Contributor Covenant][homepage], version 1.4,
 available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
 
 [homepage]: https://www.contributor-covenant.org
