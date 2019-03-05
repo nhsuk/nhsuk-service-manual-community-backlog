@@ -18,7 +18,7 @@ Anyone can propose a new thing for the NHS digital service manual.
 - You can [raise an issue using the template](ISSUE_TEMPLATE.md).
 
 - At this stage, you just need to present your idea and evidence of user needs.
-- The service manual taem will review your proposal, and see if it meets the [contribution criteria](CRITERIA.md).
+- The service manual team will review your proposal, and see if it meets the [contribution criteria](CRITERIA.md).
 - Once the proposal is ready to be worked on, it will be marked as "To do" in the backlog.
 - You can then choose to [work on it yourself](#work-on-a-new-thing), or leave it for someone else.
 
