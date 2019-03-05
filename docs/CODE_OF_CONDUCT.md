@@ -33,11 +33,11 @@ The team has the right and responsibility to remove, edit, or reject comments, c
 
 This code of conduct applies in project spaces.
 
-It also applies in public when an individual is representing the project or its community. Examples of representing a service manual project or community include: 
+It also applies in public when an individual is representing the NHS digital service manual, a service manual project or community. Examples include: 
 
-* using the service manual or another official e-mail address
-* posting on behalf of the service manual team on a social media or Slack account
-* acting as an appointed representative at an online or offline event
+* individuals identifying themselves as members of the team or posting on behalf of the service manual team on social media or Slack
+* anyone using the service manual or another official e-mail address
+* anyone acting as an appointed representative at an online or offline event
 
 The service manual team may define or clarify further what representation of a project means.
 
