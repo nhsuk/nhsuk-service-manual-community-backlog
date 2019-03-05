@@ -1,4 +1,4 @@
-# NHS digital service manual criteria
+# NHS digital service manual contribution criteria
 
 Contributions to the NHS digital service manual need to meet these criteria.
 
