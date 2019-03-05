@@ -27,4 +27,4 @@ If you have any questions about this backlog, you can use the issue comments, em
 
 Please join in and propose or discuss issues.
 
-[Read our contribution guidelines](CONTRIBUTING.md) and [criteria](CRITERIA.md).
+[Read our contribution guidelines](CONTRIBUTING.md) and [contribution criteria](CRITERIA.md).
