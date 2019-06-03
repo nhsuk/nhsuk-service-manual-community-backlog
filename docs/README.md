@@ -10,7 +10,7 @@ Contribute to our backlog by proposing new things - or work with us on issues in
 
 [Backlog of content style guide changes](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/2)
 
-[[Test] Backlog of practices and ways of working](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/3)
+Backlog of practices and ways of working](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/3)
 
 
 ## Support
