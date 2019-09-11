@@ -1,38 +1,32 @@
 # NHS digital service manual contribution criteria
 
-Contributions to the NHS digital service manual need to meet these criteria.
+The contents of the service manual must be of a high quality and meet user needs. To guarantee this, the service manual has a design working group to check that all components and patterns meet certain criteria.
 
 <br>
 
-## New proposals
+## Criteria for proposals for new components and patterns
 
-You need to show that the new thing will be useful and unique.
+To be successful, your proposal needs to show that the component or pattern you’re suggesting will be useful and unique.
 
 | Criteria | Description |
 | :------- | :---------- |
-| Useful   | You have evidence that it would be useful for many NHS digital teams or services.|
-| Unique   | We don't have something similar already.|
+| Useful   | You have evidence that the component or pattern would be useful for many NHS digital teams or services.<br><br>Evidence could be screenshots or links to versions in different services. |
+| Unique   | We don’t already have something similar in the service manual.<br><br>If you’re proposing that it replace an existing component or pattern, it should be better than the existing version. |
 
-The service manual team will look at proposals in the community backlog to check that they meet these criteria before moving them to the "To do" column.
+The working group checks that proposals meet these criteria before they move them to the "To do" column in the community backlog.
 
 <br>
 
-## Criteria for publishing a new thing
-### Components and patterns
+## Criteria for publishing a component or pattern 
 
-We need to make sure the implemention is usable, consistent and versatile.
+The working group checks that the implementation is usable, consistent and versatile.
 
 | Criteria     | Description |
 | :----------- | :---------- |
-| Usable       | It has been tested in user research and shown to work with a representative sample of users, including people with disabilities.|
-| Consistent   | It reuses [existing styles and components](https://beta.nhs.uk/service-manual/styles-components-patterns) where relevant. It follows the [content style guide](https://beta.nhs.uk/service-manual/content) and [NHS.UK frontend library](https://github.com/nhsuk/nhsuk-frontend/blob/master/docs/contributing/coding-standards.md).|
-| Versatile    | The implementation is versatile enough to be used in a range of different services. The component or pattern must also work with a range of browsers, assistive technologies and devices.|
+| Usable       | You have tested it in user research and shown that it works with a representative sample of users, including people with disabilities.<br><br>If there isn’t enough research yet to show that it’s usable, it can still be published as “experimental”. But it must be clearly based on relevant user research from other organisations and best practice, and meet the other criteria. |
+| Consistent   | It uses [existing styles and components](https://beta.nhs.uk/service-manual/styles-components-patterns)  in the service manual where relevant.<br><br>The guidance and any content in examples follow the [content style guide](https://beta.nhs.uk/service-manual/content).<br><br>If there is code, it follows the [NHS.UK frontend coding standards](https://github.com/nhsuk/nhsuk-frontend/blob/master/docs/contributing/coding-standards.md) and is ready to merge into the NHS.UK frontend library. |
+| Versatile    | The implementation is versatile enough to be used in a range of different services.<br><br>For example, a versatile date input component could be set up to ask for:<br>- a year only<br>- a month and year only<br>- a precise date<br>- any other combination<br><br>The component or pattern has been tested and works with a range of browsers, assistive technologies and devices. |
+| Clinically safe | You have asked for feedback from an appropriate clinician and have addressed any clinical safety issues they raised.<br><br>The working group includes a clinician trained in clinical safety. We will ask them to approve the component or pattern from a clinical safety point of view. |
 
-The service manual team will use these criteria to decide if the contribution is ready to publish.
+The working group uses these criteria to decide if the component or pattern is ready to publish.
 
-## Other things
-
-We are working on this. Please get in touch with the service manual team:
-
-- Slack: [NHS.UK service manual Slack workspace](https://join.slack.com/t/nhs-service-manual/shared_invite/enQtNTIyOTEyNjU3NDkyLWUwOWM5MWY5MGRhYTYxZmY4ZWI0NDA1N2NhNTRiMGY3MTQxNjk5YTc3ZTAzMTA4YmE3ZDAxYmQ3MTQxNDgzOTQ)
-- Email: [service-manual@nhs.net](mailto:service-manual@nhs.net)
