@@ -30,3 +30,5 @@ The working group checks that the implementation is usable, consistent and versa
 
 The working group uses these criteria to decide if the component or pattern is ready to publish.
 
+(Adapted from GOV.UK's GitHub contribution criteria.)
+
