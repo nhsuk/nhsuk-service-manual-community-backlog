@@ -30,5 +30,5 @@ The working group checks that the implementation is usable, consistent and versa
 
 The working group uses these criteria to decide if the component or pattern is ready to publish.
 
-(Adapted from GOV.UK's GitHub contribution criteria.)
+(Adapted from <a href="https://github.com/alphagov/govuk-design-system-backlog/blob/master/docs/CONTRIBUTING.md">GOV.UK's GitHub contribution criteria</a>.)
 
