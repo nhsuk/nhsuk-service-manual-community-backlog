@@ -2,15 +2,17 @@
 
 ## About our backlog
 
-This is a place for digital teams in the NHS to work together and develop the [NHS digital service manual](https://beta.nhs.uk/service-manual/). 
+This is a place for digital teams in the NHS to work together and develop the [NHS digital service manual](https://service-manual.nhs.uk). 
 
 Contribute to our backlog by proposing new things - or work with us on issues in our backlog.
 
-[Backlog of styles, components and patterns](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/1)
+### Community backlogs
 
-[Backlog of content style guide changes](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/2)
+[Design system - components and patterns backlog](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/1)
 
-[Backlog of practices and ways of working](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/3)
+[Content style guide changes backlog](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/2)
+
+[Practices and ways of working backlog](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/3)
 
 
 ## Support
