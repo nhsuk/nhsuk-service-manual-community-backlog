@@ -12,6 +12,14 @@ The community backlog lives on GitHub, in the open where everyone can see and ge
 
 [Practices and ways of working backlog](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/3)
 
+## Working together
+
+Join in with the community. It gives you a great chance to:
+
+- **collaborate** on developing great solutions to common design problems
+- **share** your hard work, insights and learnings with others
+- **get help** with your own design and development challenges
+
 ## Ways to contribute
 
 Anyone can contribute to the community backlog. All you need is a [public GitHub account](https://github.com/join) to get started. Most contributions begin with a GitHub issue using one of these templates:
