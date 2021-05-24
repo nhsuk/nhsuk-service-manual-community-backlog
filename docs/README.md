@@ -35,6 +35,10 @@ To feedback or share insights on something that already exists:
 
 Regardless of how you choose to contribute, we encourage you to open an issue or feedback as early as possible in the process.
 
+## Maintaining the backlog
+
+The community backlog is maintained by [the service manual team](https://service-manual.nhs.uk/service-manual-team) who label, close, and manage all GitHub issues.
+
 ## Support
 
-If you have any questions about this backlog, you can use the issue comments, email the [service manual team](mailto:service-manual@nhs.net) or use the [#service-manual](https://nhs-service-manual.slack.com/messages/CF6CNGB7E) channel in the service manual Slack workspace.
+If you have any questions about this backlog, you can use the [issue template](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/new?assignees=&labels=type%3A+question+%E2%9D%93&template=question.md&title=), [email the service manual team](mailto:service-manual@nhs.net) or use the [#service-manual](https://nhs-service-manual.slack.com/messages/CF6CNGB7E) channel in the service manual Slack workspace.
