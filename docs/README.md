@@ -12,7 +12,7 @@ This is a place for digital teams in the NHS to work together and develop the [N
 
 ## Ways to contribute
 
-Anyone can contribute to the community backlog. All you need is a public GitHub account to get started. Most contributions begin with a GitHub issue using one of these templates:
+Anyone can contribute to the community backlog. All you need is a [public GitHub account](https://github.com/join) to get started. Most contributions begin with a GitHub issue using one of these templates:
 
 - [Ask a question](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/new?assignees=&labels=type%3A+question+%E2%9D%93&template=question.md&title=)
 - [Report an issue](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/new?assignees=&labels=type%3A+bug+%F0%9F%90%9B&template=bug-report.md&title=)
