@@ -1,12 +1,8 @@
 # NHS digital service manual community backlog
 
-## About our backlog
-
 This is a place for digital teams in the NHS to work together and develop the [NHS digital service manual](https://service-manual.nhs.uk). 
 
-Contribute to our backlog by proposing new things - or work with us on issues in our backlog.
-
-### Community backlogs
+## Community backlogs
 
 [Design system - components and patterns backlog](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/1)
 
@@ -14,14 +10,21 @@ Contribute to our backlog by proposing new things - or work with us on issues in
 
 [Practices and ways of working backlog](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/3)
 
+## Ways to contribute
+
+Anyone can contribute to the community backlog. All you need is a public GitHub account to get started. Most contributions begin with a GitHub issue using one of these templates:
+
+- [Ask a question](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/new?assignees=&labels=type%3A+question+%E2%9D%93&template=question.md&title=)
+- [Report an issue](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/new?assignees=&labels=type%3A+bug+%F0%9F%90%9B&template=bug-report.md&title=)
+- [Propose a new idea](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/new?assignees=&labels=type%3A+enhancement+%F0%9F%92%A1&template=new-feature.md&title=)
+
+To feedback or share insights on something that already exists:
+
+1. [Find the issue in the community backlog](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues)
+2. Add a comment to the issue
+
+Regardless of how you choose to contribute, we encourage you to open an issue or feedback as early as possible in the process.
 
 ## Support
 
 If you have any questions about this backlog, you can use the issue comments, email the [service manual team](mailto:service-manual@nhs.net) or use the [#service-manual](https://nhs-service-manual.slack.com/messages/CF6CNGB7E) channel in the service manual Slack workspace.
-
-
-## Contribute
-
-Please join in and propose or discuss issues.
-
-[Read our contribution guidelines](CONTRIBUTING.md) and [contribution criteria](CRITERIA.md).
