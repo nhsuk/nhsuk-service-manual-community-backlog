@@ -1,6 +1,6 @@
 ---
 name: 'Feature request or enhancement 💡'
-about: Suggest an idea for this project
+about: Suggest an idea for the service manual
 title: ''
 labels: 'type: enhancement 💡'
 assignees: ''
