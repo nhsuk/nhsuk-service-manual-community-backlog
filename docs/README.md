@@ -8,7 +8,7 @@ The community backlog lives on GitHub, in the open where everyone can see and ge
 
 [Design system (components and patterns) backlog](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/1)
 
-[Content style guide changes backlog](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/2)
+[Content style guide backlog](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/2)
 
 [Practices and ways of working backlog](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/3)
 
