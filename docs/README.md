@@ -30,7 +30,7 @@ Anyone can contribute to the community backlog. All you need is a [public GitHub
 
 To feedback or share insights on something that already exists:
 
-1. Find the issue in the community backlog - either in the [issues list](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues) or on the [project boards](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/projects)
+1. Find the issue in the community backlog - in the [issues list](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues) or [project boards](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/projects)
 2. Add a comment to that issue
 
 Regardless of how you choose to contribute, we encourage you to open an issue or feedback as early as possible in the process.
