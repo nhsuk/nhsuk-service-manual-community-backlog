@@ -6,7 +6,7 @@ This is a place for digital teams in the NHS to work together and develop the [N
 
 The community backlog lives on GitHub, in the open where everyone can see and get involved. We’ve grouped the backlog into 3 areas:
 
-[Design system - components and patterns backlog](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/1)
+[Design system (components and patterns) backlog](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/1)
 
 [Content style guide changes backlog](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/2)
 
