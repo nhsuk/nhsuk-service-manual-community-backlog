@@ -1,30 +1,32 @@
 ---
 name: 'Report a problem 🐛'
-about: If something isn't working as expected
+about: If you see a bug, broken link or typo, for example, or something is not working as you expect it to
 title: ''
 labels: 'type: bug 🐛'
 assignees: ''
 ---
 
-## What happened
+## What is the problem?
 
 <!--
-What happened that makes you think this is a problem?
+Please describe the problem. What makes you think this is a problem?
 -->
 
-## What I expected to happen
+## Bugs
+
+### What did you expect to happen?
 
 <!--
-What did you expect to happen.
+Please tell us what you expected to happen and what did happen.
 -->
 
-## Reproducing
+### Reproducing the bug
 
 - NHSUK frontend version:
 - Node version:
 - npm version:
 
-Steps to reproduce:
+Steps to reproduce it:
 
 1.
 2.
