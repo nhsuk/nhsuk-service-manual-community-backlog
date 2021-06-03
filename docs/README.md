@@ -37,7 +37,7 @@ Regardless of how you choose to contribute, we encourage you to open an issue or
 
 ## Maintaining the backlog
 
-The [the service manual team](https://service-manual.nhs.uk/service-manual-team) maintains the community backlog and labels, manages or closes all GitHub issues.
+The [service manual team](https://service-manual.nhs.uk/service-manual-team) maintains the community backlog and labels, manages or closes all GitHub issues.
 
 ## Support
 
