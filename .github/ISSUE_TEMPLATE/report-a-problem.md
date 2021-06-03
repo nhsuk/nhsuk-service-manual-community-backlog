@@ -1,15 +1,15 @@
 ---
-name: 'Bug Report 🐛'
+name: 'Report a problem'
 about: If something isn't working as expected
 title: ''
-labels: 'type: bug 🐛'
+labels: 'type: problem'
 assignees: ''
 ---
 
 ## What happened
 
 <!--
-What happened that makes you think this is a bug or missing feature?
+What happened that makes you think this is a problem?
 -->
 
 ## What I expected to happen
