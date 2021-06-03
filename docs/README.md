@@ -24,9 +24,9 @@ Join in with the community. It gives you a chance to:
 
 Anyone can contribute to the community backlog. All you need is a [public GitHub account](https://github.com/join) to get started. Most contributions begin with a GitHub issue using one of these templates:
 
-- [ask a question](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/new?assignees=&labels=type%3A+question+%E2%9D%93&template=question.md&title=)
+- [ask a question](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/new?assignees=&labels=type%3A+question+%E2%9D%93&template=ask-a-question.md&title=)
 - [propose a new feature or improvement](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/new?assignees=&labels=type%3A+enhancement+%F0%9F%92%A1&template=new-feature.md&title=)
-- [report a problem](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/new?assignees=&labels=type%3A+bug+%F0%9F%90%9B&template=bug-report.md&title=)
+- [report a problem](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/new?assignees=&labels=type%3A+bug+%F0%9F%90%9B&template=report-a-problem.md&title=)
 
 To feedback or share insights on something that already exists:
 
