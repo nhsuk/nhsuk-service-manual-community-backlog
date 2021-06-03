@@ -1,5 +1,5 @@
 ---
-name: 'Feature request or enhancement 💡'
+name: 'Propose a new feature or improvement 💡'
 about: Suggest an idea for the service manual
 title: ''
 labels: 'type: enhancement 💡'
