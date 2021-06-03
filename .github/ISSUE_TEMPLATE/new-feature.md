@@ -1,6 +1,6 @@
 ---
 name: 'Propose a new feature or improvement 💡'
-about: Suggest an idea for the service manual
+about: If you have an idea for the service manual
 title: ''
 labels: 'type: enhancement 💡'
 assignees: ''
