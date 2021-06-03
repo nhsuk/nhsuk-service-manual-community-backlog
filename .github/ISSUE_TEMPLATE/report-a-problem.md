@@ -1,8 +1,8 @@
 ---
-name: 'Report a problem'
+name: 'Report a problem 🐛'
 about: If something isn't working as expected
 title: ''
-labels: 'type: problem'
+labels: 'type: bug 🐛'
 assignees: ''
 ---
 
