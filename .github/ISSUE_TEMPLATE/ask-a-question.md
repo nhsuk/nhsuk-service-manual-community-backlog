@@ -1,5 +1,5 @@
 ---
-name: Question ❓
+name: Ask a question ❓
 about: If you need support using the service manual (the community is here to help)
 title: ''
 labels: 'type: question ❓'
