@@ -14,19 +14,19 @@ It's grouped into 3 areas:
 
 ## Working together
 
-Join in with the community. It gives you a great chance to:
+Join in with the community. It gives you a chance to:
 
-- **collaborate** on developing great solutions to common design problems
-- **share** your hard work, insights and learnings with others
+- **collaborate** on developing solutions to common design problems
+- **share** your work, insights and learnings with others
 - **get help** with your own design and development challenges
 
 ## Ways to contribute
 
 Anyone can contribute to the community backlog. All you need is a [public GitHub account](https://github.com/join) to get started. Most contributions begin with a GitHub issue using one of these templates:
 
-- [Ask a question](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/new?assignees=&labels=type%3A+question+%E2%9D%93&template=question.md&title=)
-- [Report an issue](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/new?assignees=&labels=type%3A+bug+%F0%9F%90%9B&template=bug-report.md&title=)
-- [Propose a new idea](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/new?assignees=&labels=type%3A+enhancement+%F0%9F%92%A1&template=new-feature.md&title=)
+- [ask a question](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/new?assignees=&labels=type%3A+question+%E2%9D%93&template=question.md&title=)
+- [propose a new feature or improvement](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/new?assignees=&labels=type%3A+enhancement+%F0%9F%92%A1&template=new-feature.md&title=)
+- [report a problem](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/new?assignees=&labels=type%3A+bug+%F0%9F%90%9B&template=bug-report.md&title=)
 
 To feedback or share insights on something that already exists:
 
@@ -37,8 +37,11 @@ Regardless of how you choose to contribute, we encourage you to open an issue or
 
 ## Maintaining the backlog
 
-The community backlog is maintained by [the service manual team](https://service-manual.nhs.uk/service-manual-team) who label, close, and manage all GitHub issues.
+The [the service manual team](https://service-manual.nhs.uk/service-manual-team) maintains the community backlog and labels, manages or closes all GitHub issues.
 
 ## Support
 
-If you have any questions about this backlog, you can use the [issue template](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/new?assignees=&labels=type%3A+question+%E2%9D%93&template=question.md&title=), [email the service manual team](mailto:service-manual@nhs.net) or use the [#service-manual](https://nhs-service-manual.slack.com/messages/CF6CNGB7E) channel in the service manual Slack workspace.
+If you have any questions about this backlog, you can:
+- use an [issue template](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/new?assignees=&labels=type%3A+question+%E2%9D%93&template=question.md&title=)
+- use the [#service-manual](https://nhs-service-manual.slack.com/messages/CF6CNGB7E) channel in the service manual Slack workspace
+- [email the service manual team](mailto:service-manual@nhs.net)
