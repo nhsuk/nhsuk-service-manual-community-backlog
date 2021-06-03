@@ -7,7 +7,9 @@ assignees: ''
 ---
 
 <!--
-If you are suggesting a change to something that already exists in the NHS digital service manual, please propose it by commenting on the issue for it. You can find issues for all published content in the 'Published' column of the NHS digital service manual backlog.
+If you're suggesting a change to something that already exists in the NHS digital service manual, please propose it by commenting on the GitHub issue for it. You can find issues for all published content in the 'Published' column in one of the backlogs.
+
+You can also get to the issue for published content by following the link at the bottom of the page in the service manual. 
 
 If you need help putting your proposal together, you can email the service manual team at service-manual@nhs.net.
 -->
@@ -15,7 +17,7 @@ If you need help putting your proposal together, you can email the service manua
 ## What
 
 <!--
-Briefly describe the thing you’re proposing. (It could be a style, component or pattern or something to add to the content style guide.)
+Briefly describe the thing you’re proposing. For example, it could be a style, component or pattern or something to add to the content style guide. 
 -->
 
 ## Why
