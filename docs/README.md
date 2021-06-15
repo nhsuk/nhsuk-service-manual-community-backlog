@@ -42,6 +42,6 @@ The [service manual team](https://service-manual.nhs.uk/service-manual-team) mai
 ## Support
 
 If you have any questions about this backlog, you can:
-- use an [issue template](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/new?assignees=&labels=type%3A+question+%E2%9D%93&template=question.md&title=)
+- use an [issue template](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues/new?assignees=&labels=type%3A+question+%E2%9D%93&template=ask-a-question.md&title=)
 - use the [#service-manual](https://nhs-service-manual.slack.com/messages/CF6CNGB7E) channel in the service manual Slack workspace
 - [email the service manual team](mailto:service-manual@nhs.net)
