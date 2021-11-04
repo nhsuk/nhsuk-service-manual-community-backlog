@@ -1,6 +1,6 @@
 # NHS digital service manual community backlog
 
-This is a place for digital teams in the NHS to work together and develop the [NHS digital service manual](https://service-manual.nhs.uk). 
+This is a place for teams building NHS or other health and care services to work together and develop the [NHS digital service manual](https://service-manual.nhs.uk). 
 
 ## Working in the open
 
@@ -8,7 +8,7 @@ The community backlog lives on GitHub, in the open where everyone can see and ge
 
 It's grouped into 3 areas:
 
-- [design system (components and patterns) backlog](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/1)
+- [design system (styles, components and patterns) backlog](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/1)
 - [content style guide backlog](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/2)
 - [practices and ways of working backlog](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/3)
 
@@ -33,11 +33,11 @@ To feedback or share insights on something that already exists:
 - find the issue in the community backlog - in the [issues list](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/issues) or [project boards](https://github.com/nhsuk/nhsuk-service-manual-community-backlog/projects)
 - add a comment to that issue
 
-Regardless of how you choose to contribute, we encourage you to open an issue or feedback as early as possible in the process.
+Regardless of how you choose to contribute, we encourage you to **open an issue or feedback as early as possible in the process**.
 
 ## Maintaining the backlog
 
-The [service manual team](https://service-manual.nhs.uk/service-manual-team) maintains the community backlog. It labels, manages or closes all GitHub issues.
+The [service manual team](https://service-manual.nhs.uk/service-manual-team) maintains the community backlog. It labels, manages or closes issues in this GitHub repository.
 
 ## Support
 
