@@ -31,10 +31,10 @@ Explain why you think we should add this to the NHS digital service manual.
 - Are you proposing that we add something from the GDS design system to the NHS digital service manual? 
 -->
 
-## Anything else
+## Other information to support your proposal
 
 <!--
-If you can, include these to support your proposal:
+If you can, include these:
 - links to any examples
 - research or design thinking
 - screenshots (ideally tested examples)
