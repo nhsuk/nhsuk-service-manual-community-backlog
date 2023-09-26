@@ -28,10 +28,16 @@ Explain why you think we should add this to the NHS digital service manual.
 - What evidence do you have that services across the NHS need it?
 - What evidence do you have that it meets the needs of the users of those services?
 - Have you checked that it doesn't already exist in the NHS digital service manual? 
+- Are you proposing that we add something from the GDS design system to the NHS digital service manual? 
 -->
 
 ## Anything else
 
 <!--
-If you can, include links to any examples, research or code to support your proposal.
+If you can, include these to support your proposal:
+- links to any examples
+- research or design thinking
+- screenshots (ideally tested examples)
+- any user research insight
+- code 
 -->
