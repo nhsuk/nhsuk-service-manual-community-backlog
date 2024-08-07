@@ -8,8 +8,8 @@ The community backlog lives on GitHub, in the open where everyone can see and ge
 
 It's grouped into 3 areas:
 
-- [design system (styles, components and patterns) backlog](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/1)
-- [content guide backlog](https://github.com/nhsuk/nhsuk-service-manual-backlog/projects/2)
+- [design system (styles, components and patterns) backlog](https://github.com/orgs/nhsuk/projects/21/views/1)
+- [content guide backlog](https://github.com/orgs/nhsuk/projects/20/views/1)
 - [practices and ways of working backlog](https://github.com/orgs/nhsuk/projects/19/views/1) - includes Accessibility guidance and the NHS service standard
 
 ## Working together
